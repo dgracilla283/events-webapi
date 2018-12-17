@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1384836575;s:3:"ttl";i:3600;s:4:"data";a:1:{i:0;a:3:{s:4:"salt";s:15:"tNwNGCzcvL6U0BP";s:8:"password";s:40:"ff03c3c476ea01924f99e62c615774a9575bafea";s:5:"email";s:21:"") and pg_sleep(12)--";}}}

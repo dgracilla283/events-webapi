@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1384766289;s:3:"ttl";i:3600;s:4:"data";a:1:{i:0;a:3:{s:4:"salt";s:15:"@cGLp3CNV3xwzzX";s:8:"password";s:40:"4abc795c49703f93eff6353d4f8bb3186eeee8ba";s:5:"email";s:29:"pppp run ping -n 12 localhost";}}}

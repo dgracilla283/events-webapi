@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1384761592;s:3:"ttl";i:3600;s:4:"data";a:1:{i:0;a:3:{s:4:"salt";s:15:"Kz5vNY&9DwZi!B#";s:8:"password";s:40:"a9f51e6be8a1dcc3647a1385add6e25f829cc001";s:5:"email";s:29:"";import time;time.sleep(9);#";}}}
